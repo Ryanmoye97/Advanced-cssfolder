@@ -1,0 +1,17 @@
+.b,
+.w {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+}
+.b {
+  background-color: black;
+}
+.w {
+  background-color: white;
+}
+.board {
+  display: inline-flex;
+  border-style: solid;
+  border-width: 2px;
+}
